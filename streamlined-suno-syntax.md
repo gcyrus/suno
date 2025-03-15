@@ -1,4 +1,4 @@
-# Suno AI Song Syntax
+```# Suno AI Song Syntax
 
 ## Overview
 
@@ -86,12 +86,12 @@ These concrete modifiers are most likely to be honored. The same lyrical modifie
 
 For example:
 
-```
+``````
 I am the void between stars
 (Beyond the veil of forms...)
 I am the death of light
 (Where your deepest terrors remain...)
-```
+``````
 
 ## [Interlude]
 
